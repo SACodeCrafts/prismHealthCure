@@ -6,9 +6,9 @@ import './index.css';
 
 function App() {
   return (
-    <div className="min-h-screen flex flex-col">
+    <div className="min-h-screen flex flex-col ">
       <Header />
-      <main className="flex-grow">
+      <main className="flex-grow ">
         <HeroSection />
       </main>
       <Footer />
