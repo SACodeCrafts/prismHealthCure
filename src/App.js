@@ -6,6 +6,7 @@ import './index.css';
 import HeroSection from './components/home/HeroSection';
 import InsuranceCompanies from './components/home/InsuranceCompanies';
 import Products from './components/home/Products';
+import Details from './components/home/Details';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
         <HeroSection />
         <InsuranceCompanies />
         <Products />
+        <Details />
       </main>
       <Footer />
     </div>

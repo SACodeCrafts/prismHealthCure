@@ -9,6 +9,8 @@ module.exports = {
         primary: '#2fc1ff',
         'hover-button': '#08acf2',
         'font-primary-color': '#101218',
+        'font-secandary-color': '#4c5253',
+        'font-secandary-2-color': '#101218',
       },
       boxShadow: {
         'custom-blue-sh': '0px 12px 16px -8px rgba(27, 95, 193, 0.38)',
