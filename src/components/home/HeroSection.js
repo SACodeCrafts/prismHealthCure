@@ -4,7 +4,7 @@ import bgImage from '../../assets/images/diagnostic-lab-hero-bg.jpg';
 
 const HeroSection = () => {
   return (
-    <section className="flex flex-col gap-16 relative md:flex-row items-center w-full pt-16  2xl:px-[370px] m-auto pb-[104px]">
+    <section className="flex flex-col gap-16 relative md:flex-row items-center w-full pt-16  2xl:px-[370px] m-auto pb-[70px]">
 
       <img src={bgImage} alt="Healthcare" className="   absolute right-0 -z-10 " />
 
