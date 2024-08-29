@@ -8,7 +8,7 @@ import IncuranceCompanies from './components/home/IncuranceCompanies';
 
 function App() {
   return (
-    <div className="min-h-screen flex flex-col ">
+    <div className="min-h-screen flex flex-col bg-red-200">
       <Header />
       <main className="flex-grow ">
         <HeroSection />
