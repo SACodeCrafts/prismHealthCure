@@ -4,7 +4,8 @@ import Header from './components/Header';
 import Footer from './components/Footer';
 import './index.css';
 import HeroSection from './components/home/HeroSection';
-import IncuranceCompanies from './components/home/IncuranceCompanies';
+import InsuranceCompanies from './components/home/InsuranceCompanies';
+import Products from './components/home/Products';
 
 function App() {
   return (
@@ -12,7 +13,8 @@ function App() {
       <Header />
       <main className="flex-grow ">
         <HeroSection />
-        <IncuranceCompanies />
+        <InsuranceCompanies />
+        <Products />
       </main>
       <Footer />
     </div>
