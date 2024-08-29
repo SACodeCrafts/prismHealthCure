@@ -3,8 +3,8 @@ import logo from '../assets/images/company-logo.png'
 
 const Header = () => {
   return (
-    <header className="bg-white shadow py-4 flex justify-center items-center w-full">
-      <div className='flex items-center justify-between w-full max-w-[1240px]'>
+    <header className="bg-white shadow py-6 flex justify-center items-center w-full">
+      <div className='flex items-center justify-between w-full max-w-[1240px] px-5'>
 
 
         <div className="text-xl font-bold">
