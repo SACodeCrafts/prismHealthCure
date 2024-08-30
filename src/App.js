@@ -6,6 +6,8 @@ import './index.css';
 import HeroSection from './components/home/HeroSection';
 import InsuranceCompanies from './components/home/InsuranceCompanies';
 import Products from './components/home/Products';
+import Details from './components/home/Details';
+import ContactUs from './components/home/ContactUs';
 
 function App() {
   return (
@@ -15,6 +17,8 @@ function App() {
         <HeroSection />
         <InsuranceCompanies />
         <Products />
+        <Details />
+        <ContactUs />
       </main>
       <Footer />
     </div>

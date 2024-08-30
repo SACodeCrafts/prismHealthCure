@@ -7,7 +7,7 @@ const Products = () => {
             <div className='flex flex-col gap-2'>
                 <h1 className='text-font-primary-color text-5xl font-bold text-center'>OUR PRODUCT RANGE
                 </h1>
-                <p className='text-[#4c5253] text-base text-center max-w-[540px]'>Explore our range of medical products designed to bring relief to those suffering from Pain in Back, Knee, Elbow, Wrist, Shoulder, & Ankle.
+                <p className='text-font-secandary-color text-base text-center max-w-[540px]'>Explore our range of medical products designed to bring relief to those suffering from Pain in Back, Knee, Elbow, Wrist, Shoulder, & Ankle.
                 </p>
             </div>
 
