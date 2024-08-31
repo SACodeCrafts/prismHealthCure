@@ -9,6 +9,7 @@ import Products from './components/home/Products';
 import Details from './components/home/Details';
 import ContactUs from './components/home/ContactUs';
 import ContactUsInfo from './components/home/ContactUsInfo';
+import Testimonial from './components/home/Testimonial';
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
         <Details />
         <ContactUs />
         <ContactUsInfo />
+        <Testimonial />
       </main>
       <Footer />
     </div>
