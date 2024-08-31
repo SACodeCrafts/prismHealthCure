@@ -10,6 +10,8 @@ import Details from './components/home/Details';
 import ContactUs from './components/home/ContactUs';
 import ContactUsInfo from './components/home/ContactUsInfo';
 import Testimonial from './components/home/Testimonial';
+import SuscribeSection from './components/home/SuscribeSection';
+import Address from './components/home/Address';
 
 function App() {
   return (
@@ -23,6 +25,8 @@ function App() {
         <ContactUs />
         <ContactUsInfo />
         <Testimonial />
+        <SuscribeSection />
+        <Address />
       </main>
       <Footer />
     </div>
