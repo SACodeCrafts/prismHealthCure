@@ -8,6 +8,7 @@ import InsuranceCompanies from './components/home/InsuranceCompanies';
 import Products from './components/home/Products';
 import Details from './components/home/Details';
 import ContactUs from './components/home/ContactUs';
+import ContactUsInfo from './components/home/ContactUsInfo';
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
         <Products />
         <Details />
         <ContactUs />
+        <ContactUsInfo />
       </main>
       <Footer />
     </div>
