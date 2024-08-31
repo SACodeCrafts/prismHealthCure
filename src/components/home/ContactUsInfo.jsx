@@ -18,7 +18,9 @@ const ContactUsInfo = () => {
                         </div>
                         <span className='flex items-center gap-2 text-sm'>
                             <p>Learn More</p>
-                            <span>--</span>
+                            <span>
+                                <svg aria-hidden="true" fill='#fff' width={12} class="e-font-icon-svg e-fas-long-arrow-alt-right" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z"></path></svg>
+                            </span>
                         </span>
                     </div>
                 </div>
@@ -45,7 +47,10 @@ const ContactUsInfo = () => {
                         </div>
                         <div className='mt-4 '>
                             <a href='#' className='text-white text-sm flex items-center gap-2'>
-                                Get Directions <span>--</span>
+                                Get Directions
+                                <span>
+                                    <svg aria-hidden="true" fill='#fff' width={12} class="e-font-icon-svg e-fas-long-arrow-alt-right" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z"></path></svg>
+                                </span>
                             </a>
                         </div>
                     </div>
@@ -74,7 +79,9 @@ const ContactUsInfo = () => {
 
                         <span className='bg-[#3060ae] w-[1px] block h-10'></span>
                         <div className='flex gap-4 items-center'>
-                            <span className='bg-primary w-11 h-11 rounded-full block'></span>
+                            <span className='bg-primary p-3 rounded-full '>
+                                <svg aria-hidden="true" fill='#fff' width={16} class="e-font-icon-svg e-fas-phone" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M493.4 24.6l-104-24c-11.3-2.6-22.9 3.3-27.5 13.9l-48 112c-4.2 9.8-1.4 21.3 6.9 28l60.6 49.6c-36 76.7-98.9 140.5-177.2 177.2l-49.6-60.6c-6.8-8.3-18.2-11.1-28-6.9l-112 48C3.9 366.5-2 378.1.6 389.4l24 104C27.1 504.2 36.7 512 48 512c256.1 0 464-207.5 464-464 0-11.2-7.7-20.9-18.6-23.4z"></path></svg>
+                            </span>
                             <div className='flex flex-col items-start'>
                                 <p className='text-[14px] font-semibold text-white'>Book an appoitnment
                                 </p>
