@@ -11,11 +11,11 @@ const Header = () => {
           <img src={logo} alt='Prism Healthcure' className='w-[161px]' />
         </div>
         <nav className="space-x-10">
-          <a href="#" className="text-font-primary-color text-base">Home</a>
-          <a href="#" className="text-font-primary-color text-base">About Us</a>
-          <a href="#" className="text-font-primary-color text-base">Product</a>
-          <a href="#" className="text-font-primary-color text-base">Testimonial</a>
-          <a href="#" className="bg-primary text-white px-8 py-2 rounded-md text-[15px]">Contact Us</a>
+          <a href="/" className="text-font-primary-color text-base">Home</a>
+          <a href="/AboutUs" className="text-font-primary-color text-base">About Us</a>
+          <a href="/Products" className="text-font-primary-color text-base">Product</a>
+          <a href="Testimonial" className="text-font-primary-color text-base">Testimonial</a>
+          <a href="/ContactUs" className="bg-primary text-white px-8 py-2 rounded-md text-[15px]">Contact Us</a>
         </nav>
       </div>
     </header>
