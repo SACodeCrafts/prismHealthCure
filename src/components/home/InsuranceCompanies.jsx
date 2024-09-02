@@ -8,7 +8,7 @@ import WellCareLogo from "../../assets/images/Well-Care-logo.png"
 
 const InsuranceCompanies = () => {
     return (
-        <div className='flex items-center w-full 2xl:px-[370px] space-x-[56px] bg-[#f3f6f6] py-10' >
+        <div className='flex items-center max-w-[1140px] m-auto space-x-[56px] bg-[#f3f6f6] py-10' >
             <div className='flex flex-col items-start '>
                 <div className='flex items-center  gap-3 '>
 
